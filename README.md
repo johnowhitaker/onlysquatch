@@ -28,3 +28,10 @@ These 'instant app' frameworks are fun for something simple like this! Many give
 
 ![bolt UI](https://github.com/user-attachments/assets/c0c2c224-eaf5-4a3c-b5e1-5860ac153eae)
 
+## PS: OpenAI o1 w/ Canvas
+
+In the lesson I wasn't sure if canvas could render HTML. It can:
+
+![image](https://github.com/user-attachments/assets/38f28cf7-ac71-4f4b-9f73-e013dae42ead)
+
+
